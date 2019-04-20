@@ -2,6 +2,8 @@
 main:
   - title: "블로그 방문하기"
     url: https://devinlife.com/
+  - title: "윤동주"
+    url: /categories/윤동주/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
