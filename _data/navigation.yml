@@ -2,5 +2,7 @@
 main:
   - title: "블로그 방문하기"
     url: https://devinlife.com/
+  - title: "Categories"
+    url: /categories/
   - title: "About"
     url: /about/
