@@ -1,0 +1,19 @@
+---
+title:  "신발 사러 간 날"
+excerpt: "오늘은 백화점에 신발을 사러 갔다"
+header:
+  teaser: /assets/images/shoes.jpg
+
+categories:
+  - 일상
+tags:
+  - 신발
+last_modified_at: 2019-04-17T08:06:00-05:00
+---
+
+오늘은 백화점에 신발을 사러 갔다. 백화점은 상상한 것 보다 엄청 나게 컸다.
+신발도 무지무지하게 많았다. 그 중에서 제일 맘에 드는 신발을 샀다.
+
+![]({{ site.url }}{{ site.baseurl }}/assets/images/shoes.jpg   ){: .align-center}
+
+내 신발 위 사진의 신발과 비슷하게 생겼다. 맘에 든다.
