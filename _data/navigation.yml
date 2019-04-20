@@ -4,5 +4,7 @@ main:
     url: https://devinlife.com/
   - title: "Categories"
     url: /categories/
+  - title: "Tags"
+    url: /tags/
   - title: "About"
     url: /about/
