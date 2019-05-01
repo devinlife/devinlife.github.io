@@ -15,11 +15,15 @@ html {
   }
 
   @include breakpoint($large) {
-    font-size: 20px;
+    /* devinlife : large 페이지 일때 폰트 사이즈 축소 20px->18px */
+    /* font-size: 20px; */
+    font-size: 18px;
   }
 
   @include breakpoint($x-large) {
-    font-size: 22px;
+    /* devinlife : x-large 페이지 일때 폰트 사이즈 축소 20px->18px */
+    /* font-size: 20px; */
+    font-size: 18px;
   }
 
   -webkit-text-size-adjust: 100%;
