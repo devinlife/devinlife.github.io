@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "GitHub Pages 따라하기- devinlfe.github.io"
+title                    : "GitHub Pages 따라하기- devinlife.github.io"
 title_separator          : "-"
 name                     : "취미코딩하는 개발자"
 description              : "회사에서는 월급 받고 집에서는 취미로 코딩하는 개발자의 블로그"
