@@ -2,7 +2,7 @@
 title: "UI Text"
 permalink: /docs/ui-text/
 excerpt: "Text for customizing user interface elements found in the theme."
-last_modified_at: 2019-08-27T15:45:54-04:00
+last_modified_at: 2020-05-01T10:15:37-04:00
 ---
 
 Text for UI elements, `_layouts`, and `_includes` grouped together as a set of translation keys. This is by no means a full-on i18n solution, but it does help make customizing theme text a bit easier.
@@ -14,15 +14,18 @@ The English[^yaml-anchors] main keys in [`_data/ui-text.yml`](https://github.com
 - Chinese
 - Danish
 - Dutch
+- Finnish
 - French (Français)
 - German (Deutsch)
 - Greek
 - Hungarian
 - Indonesian
+- Irish (Gaeilge)
 - Italian (Italiano)
 - Korean
 - Japanese
 - Malayalam
+- Myanmar (Burmese)
 - Nepali (Nepalese)
 - Polish
 - Persian (فارسی)
